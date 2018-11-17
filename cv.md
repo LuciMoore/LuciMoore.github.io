@@ -3,17 +3,13 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Neuroscience PhD Candidate, Vollum Institute, Oregon Health & Science University, Portland, OR 97202 
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2007 - 2011`
+__University of Puget Sound__
+Bachelor of Science, Biology, & Interdisciplinary Emphasis in Asian Studies
 
 ## Awards
 
