@@ -9,4 +9,4 @@ I am a PhD Candidate in Neuroscience at the Vollum Institute.
 
 - Academia
 - [GitHub Pages](http://LuciMoore.github.io)
-- Open Science
+- [OpenCon Cascadia](https://opencon-cascadia.github.io/) 
