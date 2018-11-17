@@ -11,4 +11,5 @@ I am a PhD Candidate in Neuroscience at the Vollum Institute.
 
 - Academia
 - [GitHub Pages](http://LuciMoore.github.io)
-- [OpenCon Cascadia](https://opencon-cascadia.github.io/) 
+- [OpenCon Cascadia](https://opencon-cascadia.github.io/)
+- [Python](https://github.com/dasaderi/python_neurobootcamp)
