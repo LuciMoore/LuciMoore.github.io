@@ -5,6 +5,8 @@ excerpt: "Lucille Moore is currently a PhD candidate in Neuroscience at the Voll
 
 I am a PhD Candidate in Neuroscience at the Vollum Institute.
 
+![heavybreathing](https://media1.tenor.com/images/fc11ccdec203fe3be3816ffcc6f1d4fa/tenor.gif?itemid=4648727)
+
 ## Current Interests and Projects:
 
 - Academia
